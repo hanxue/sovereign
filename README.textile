@@ -1,6 +1,6 @@
 h1. >>Fork Notes<<
 
-This is a fork meant for bug fixes and experimental purposes. Please follow/for the  upstream Sovereign repository at https://github.com/al3x/sovereign instead. 
+This is a fork meant for +bug fixes+ and +experimental+ purposes. Please follow/for the  upstream Sovereign repository at https://github.com/al3x/sovereign instead. 
 
 
 h1. Introduction
